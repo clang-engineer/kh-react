@@ -1,0 +1,56 @@
+{
+  "generator-jhipster": {
+    "blueprints": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.12.1"
+      }
+    ],
+    "otherModules": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.12.1"
+      }
+    ],
+    "applicationType": "monolith",
+    "baseName": "khReact",
+    "jhipsterVersion": "7.0.1",
+    "skipClient": false,
+    "skipServer": false,
+    "skipUserManagement": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipFakeData": false,
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "testFrameworks": [],
+    "pages": [],
+    "creationTimestamp": 1636893544340,
+    "serviceDiscoveryType": false,
+    "reactive": false,
+    "authenticationType": "jwt",
+    "packageName": "com.zero",
+    "serverPort": "8080",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "buildTool": "gradle",
+    "serverSideOptions": [],
+    "websocket": false,
+    "searchEngine": false,
+    "messageBroker": false,
+    "enableSwaggerCodegen": false,
+    "clientFramework": "react",
+    "withAdminUi": true,
+    "clientTheme": "none",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "packageFolder": "com/zero",
+    "jwtSecretKey": "NDNjNzIyZTgwMmM4ZDFhZGFkMDE5ZWJlNjA0OTc0ZGY3NzBiYmE3OTBjZjk3Y2MzN2I1OTQ2MGEzODcxODgyZmFlNzRmMTQwMTljODE4NjM3Nzc2MmQ0NTZiZmFmOGY5N2QwZmFjMmUyMTc5ZjNjZjc3ZDliZDA1MmRiOWZkMjU=",
+    "clientPackageManager": "npm",
+    "clientThemeVariant": "",
+    "languages": ["en", "ko"]
+  }
+}
